@@ -1,0 +1,141 @@
+LinkCodeEdit - Multi-functional Code and Web Tools Editor
+
+COPYRIGHTS AND LICENSES
+========================
+
+Primary Author: Savin Evgenii Olegovich
+Author's Website: https://www.linkfirst.ru
+Program Website: https://linkcodeedit.com
+Email: b2b@linkfirst.ru
+
+Program License: MIT License
+
+THIRD-PARTY COMPONENTS USED
+===========================
+
+    PySide6
+
+        License: LGPLv3
+
+        Author: The Qt Company Ltd.
+
+        Website: https://pypi.org/project/PySide6/
+
+        Version: >=6.0.0
+
+    Pillow (PIL Fork)
+
+        License: PIL Software License
+
+        Author: Secret Labs AB, Fredrik Lundh
+
+        Website: https://pypi.org/project/Pillow/
+
+        Version: >=9.0.0
+
+        Note: Optional dependency for favicon generation
+
+    Python Standard Libraries
+
+        License: Python Software Foundation License
+
+        Author: Python Software Foundation
+
+DISTRIBUTION TERMS
+==================
+
+    Free Distribution
+    The program is distributed free of charge (freeware). Use and distribution
+    are governed by the MIT License.
+
+    Usage Rights
+    You may use the product for personal and commercial purposes, and:
+
+        Copy, modify, merge
+
+        Publish, distribute, sublicense
+
+        Sell copies of the software
+        Provided that the copyright notice and license text are preserved.
+
+    Disclaimer of Liability
+    The program is provided "AS IS" WITHOUT ANY WARRANTY OF ANY KIND.
+    You use it at your own risk. The author/copyright holder shall not be liable
+    for any direct or indirect damages, losses, data loss, or profit loss.
+
+    Attribution
+    When distributing the program, you must preserve:
+
+        Copyright notice of the primary author
+
+        License texts of all used components
+
+        This license file unchanged
+
+FULL MIT LICENSE TEXT
+=====================
+
+MIT License
+
+Copyright (c) 2025 Savin Evgenii Olegovich
+https://www.linkcodeedit.com
+b2b@linkfirst.ru
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+ADDITIONAL LGPLv3 NOTICE FOR PYSIDE6
+=====================================
+
+This application uses PySide6 which is licensed under LGPLv3.
+The terms of LGPLv3 require that:
+
+    Users can replace the LGPL-licensed components with modified versions
+
+    Source code of modified LGPL components must be made available
+
+    The application must allow reverse engineering for debugging such modifications
+
+For full LGPLv3 terms, please refer to: https://www.gnu.org/licenses/lgpl-3.0.html
+
+PIL LICENSE NOTICE FOR PILLOW
+=============================
+
+The Python Imaging Library (PIL) is
+Copyright © 1997-2011 by Secret Labs AB
+Copyright © 1995-2011 by Fredrik Lundh
+
+By obtaining, using, and/or copying this software and/or its associated
+documentation, you agree that you have read, understood, and will comply
+with the following terms and conditions:
+
+Permission to use, copy, modify, and distribute this software and its
+associated documentation for any purpose and without fee is hereby granted,
+provided that the above copyright notice appears in all copies, and that
+both that copyright notice and this permission notice appear in supporting
+documentation, and that the name of Secret Labs AB or the author not be
+used in advertising or publicity pertaining to distribution of the software
+without specific, written prior permission.
+
+SECRET LABS AB AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS
+SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS.
+IN NO EVENT SHALL SECRET LABS AB OR THE AUTHOR BE LIABLE FOR ANY SPECIAL,
+INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE
+OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+PERFORMANCE OF THIS SOFTWARE.

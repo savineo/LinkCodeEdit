@@ -1,0 +1,13 @@
+LINKCODEEDIT — help
+
+• “Comments” tab: removes comments from code. ALL mode — strips in HTML/CSS/JS/PHP/JSON/Python.
+• “Formatting”: pretty-print or minify. JSON can sort keys.
+• “Obfuscation”: eval(Base64) / hex+eval / Base64 container. You can append a comment and test JS in browser.
+• “Slug”: generate SEO-friendly slug (ru→lat translit, case, separator, max length).
+• “Stats”: quick character/word/line counters, whitespace, etc.
+• “UTM”: URL builder with UTM parameters; can override existing ones.
+• “JS Link”: encoded link generator (for embedding).
+• “Passwords”: generate multiple passwords by policy.
+• “Batch”: format/minify files in folder (controls at the bottom).
+
+Hotkeys: Ctrl+Enter — run tab action; “Edit” menu — swap in/out, clear, clipboard helpers.
